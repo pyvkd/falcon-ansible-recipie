@@ -8,10 +8,10 @@ This recipie works perfectly fine with the following:
 *  ansible 1.7.2
 *  distribution
 
-    > Distributor ID:  Debian
-    > Description:    Debian GNU/Linux testing (stretch)
-    > Release:    testing
-    > Codename:   stretch
+    > Distributor ID:  Debian\n
+    > Description:    Debian GNU/Linux testing (stretch)\n
+    > Release:    testing\n
+    > Codename:   stretch\n
 
 ## How to guide
 
